@@ -84,4 +84,7 @@
 	</section>
 	<section name="CallHierarchySearchScope">
 	</section>
+	<section name="SelfEncapsulateFieldWizard">
+		<item key="GenerateJavadoc" value="false"/>
+	</section>
 </section>
