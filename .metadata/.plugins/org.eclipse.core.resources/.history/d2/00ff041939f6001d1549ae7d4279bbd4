@@ -1,0 +1,20 @@
+package teste;
+
+public class Teste {
+
+	public static void main(String[] args){
+		int a;
+	    a=100;
+	    if (a < 0) {
+	           System.out.println("solido");
+	         }
+	         else {
+	                     if ( a < 100 ) {
+	                            System.out.println("liquido");
+	                         } 
+	                         else {
+	                                      System.out.println("gasoso");
+	                                   }
+	                  }
+	}
+} 

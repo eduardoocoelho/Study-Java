@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="negativos"/>
+	<classpathentry kind="src" path="soma_vetor"/>
+	<classpathentry kind="src" path="alturas"/>
+	<classpathentry kind="src" path="numeros_pares"/>
+	<classpathentry kind="src" path="maior_posicao"/>
+	<classpathentry kind="src" path="soma_vetores"/>
+	<classpathentry kind="src" path="abaixo_da_media"/>
+	<classpathentry kind="src" path="media_pares"/>
+	<classpathentry kind="src" path="mais_velho"/>
+	<classpathentry kind="src" path="aprovados"/>
+	<classpathentry kind="src" path="dados_pessoais"/>
+	<classpathentry kind="src" path="desafio_pensionato"/>
+	<classpathentry kind="src" path="exercicio_fixacao_lista"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-17">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

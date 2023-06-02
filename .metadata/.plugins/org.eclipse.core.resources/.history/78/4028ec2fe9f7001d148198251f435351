@@ -1,0 +1,17 @@
+package teste;
+
+public class Teste {
+
+	public static void main(String[] args){
+		int soma = 0;
+		int resultado = 0;
+		int contador = 1;
+		
+		if(soma == 0)
+			if(contador == 0)
+				resultado = 0;
+		else resultado = 1;
+		
+		System.out.println(resultado);
+	}
+} 

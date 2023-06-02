@@ -1,0 +1,34 @@
+package teste;
+
+public class Teste {
+
+	public static void imprimePrimeiro(int num){
+
+	      System.out.print(num + " ");
+
+	   }
+
+	   public static void imprimeDepois(int num1, int num2){
+
+	      System.out.print(num1*num2 + " ");
+
+	   }
+
+	   public static void main(String[] args){
+
+	      int i, j, n = 4;
+
+	      for(i = 1; i <= n; i++){
+
+	         imprimePrimeiro(i);
+
+	         for(j = 2; j <= i; j++)
+
+	            imprimeDepois(j, i);
+
+	         System.out.println();
+
+	      }
+
+	   }
+} 

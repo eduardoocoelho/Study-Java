@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;application.Program.java&apos; to &apos;DesafioPensionato.java&apos;&#x0D;&#x0A;- Original project: &apos;exercicios_vetores&apos;&#x0D;&#x0A;- Original element: &apos;application.Program.java&apos;&#x0D;&#x0A;- Renamed element: &apos;application.DesafioPensionato.java&apos;" description="Rename compilation unit &apos;Program.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/desafio_pensionato&lt;application{Program.java" name="DesafioPensionato.java" references="false" stamp="1678908038186" version="1.0"/>
+</session>
